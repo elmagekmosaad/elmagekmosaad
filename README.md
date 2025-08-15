@@ -12,12 +12,11 @@ I am a passionate Full Stack .NET Developer with hands-on experience in designin
 
 ## 🛠️ Skills
 
-- **Languages:** C#, JavaScript, TypeScript, SQL
+- **Languages:** VB.NET in past, C#, JavaScript, SQL
 - **Frameworks:** .NET Core, ASP.NET MVC, ASP.NET Web API, Entity Framework
-- **Frontend:** HTML, CSS, Angular, React
-- **Databases:** SQL Server, PostgreSQL
+- **Frontend:** HTML, CSS, Bootstrap
+- **Databases:** SQL Server, MySql
 - **Tools:** Git, GitHub, CI/CD pipelines
-- **Other:** RESTful APIs, Microservices, Unit & Integration Testing
 
 ---
 
