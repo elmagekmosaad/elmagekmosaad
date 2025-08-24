@@ -13,7 +13,7 @@ Full Stack .NET Developer with hands-on experience in ASP.NET Core MVC, APIs, an
 - **Frameworks:** ASP.NET Core, MVC, Web API, Entity Framework, EF Core, WinForms  
 - **Frontend:** HTML, CSS, Bootstrap, jQuery  
 - **Databases:** SQL Server, MySQL  
-- **Tools & DevOps:** Git, GitHub, SSMS, Putty, CentOS Web Panel, Cloudflare, Hosting Management  
+- **Tools & DevOps:** Git, GitHub, SSMS, Putty, CentOS Web Panel, Cloudflare, Hosting Management, aapanel
 - **Principles & Patterns:** OOP, SOLID, Design Patterns, LINQ
 
 ---
