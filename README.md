@@ -1,52 +1,38 @@
 # Mosaad Ghanem  
-**Full Stack .NET Developer**
+**Full-Stack .NET Developer (.Net Core & Angular)**
 
 ---
 
 ## 👋 About Me
-Full Stack .NET Developer with hands-on experience in ASP.NET Core MVC, APIs, and WinForms. Skilled in building scalable web and desktop applications across various domains. Passionate about clean code, performance optimization, and solving real-world problems. Currently contributing to enterprise-grade systems and open-source projects.
+My name is Mosaad Ghanem, and I am a Full-Stack .NET Developer (.Net Core & Angular) skilled in ASP.NET Core (MVC & APIs), 
+with experience in web and desktop applications. Currently learning Angular to enhance frontend development skills. 
+Passionate about clean code and continuous learning, seeking to add value in collaborative development projects
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** C#, VB.NET, JavaScript, SQL, PHP  
-- **Frameworks:** ASP.NET Core, MVC, Web API, Entity Framework, EF Core, WinForms  
-- **Frontend:** HTML, CSS, Bootstrap, jQuery  
-- **Databases:** SQL Server, MySQL  
-- **Tools & DevOps:** Git, GitHub, SSMS, Putty, CentOS Web Panel, Cloudflare, Hosting Management, aapanel
+- **Languages:** C#, VB.NET, JavaScript, SQL, PHP
+- **Frameworks:** ASP.NET Core, MVC, Web API, Entity Framework, EF Core, WinForms, .NET Framework, Razor Pages, SignalR 
+- **Frontend:** HTML, CSS, Bootstrap, jQuery
+- **Databases:** SQL Server, MySQL (PhpMyAdmin), PostgreSQL
+- **Tools & DevOps:** Git, GitHub, SSMS, Putty, CentOS Web Panel, aapanel, Cloudflare, Hosting Management, DevExpress, Redis, Serilog, Amazon S3
 - **Principles & Patterns:** OOP, SOLID, Design Patterns, LINQ
+- **Other Skills:** Performance Tuning & Code Optimization, Critical Thinking, Agile Practices, JWT Authentication, CI/CD, Modular Architecture, RESTful APIs, DNS Management
 
 ---
 
 ## 💼 Experience
 - **Full Stack .NET Developer – Appy Innovate (Sep 2024 – Feb 2025)**  
-  - Built and maintained web apps using ASP.NET Core, EF, Bootstrap  
-  - Developed distributed logging and real-time chat systems  
-  - Customized reports with DevExpress and enhanced UI with DevExtreme  
-  - Collaborated with QA and optimized SQL queries across SQL Server & MySQL
+  Contributed to the end-to-end development and successful deployment of the alfatoora.com ERP system, ensuring a smooth live rollout and user adoption across multiple departments.
+  Developed custom ERP plugins for nopCommerce, enhancing e-commerce capabilities and seamlessly integrating core ERP functionalities to streamline business operations.
+  Utilized MySQL for database management,ensuring efficient data retrieval and optimized query performance across the system.
+  Implemented DevExpress controls for frontend development, creating highly interactive and visually appealing reports that significantly improved data visualization and reporting capabilities.
+  Worked closely with cross-functional teams, using Agile practices to deliver system updates and bug fixes in a timely and effective manner.
+  This project will operate in Saudi Arabia and is linked to the Zakat, Tax and Customs Authority (ZATCA), ensuring compliance with local regulations and tax reporting requirements.
 
 - **ASP.NET Developer – Puzzle Development (Jan 2024 – Present)**  
-  - Full-stack development with ASP.NET Core and EF Core  
-  - Managed hosting, DNS, and deployment on CentOS  
-  - Worked with VB.NET, PHP, and MySQL for legacy systems
-
----
-
-## 🧪 Projects
-- **MG-Task Distributed Logging System**  
-  RESTful API + Angular frontend with dynamic backend switching (SQL, S3, local). JWT-secured, scalable, and extensible.
-
-- **MG-Task Management System**  
-  CRUD + pagination with clean architecture and responsive UI.
-
-- **MG-Task Invoice Manager (WinForms)**  
-  Desktop app with auto-calculations, pagination, and interactive UI.
-
-- **MG-Task Real-Time Chat App**  
-  SignalR-powered chat with multimedia, admin dashboard, and user status tracking.
-
-- **Hospital Maintenance Management System**  
-  Desktop app for request tracking, inventory, and real-time alerts.
+  Developed and maintained web applications using ASP.NET Core. Focused on full-stack development, database integration, and optimizing performance. Ensured code quality through testing and best practices. Worked on both front-end and back-end tasks.
+  Technologies: C#, NET, OOP, LINQ, SOLID Principles, Design Patterns, Entity Framework Core (EF Core) , SSMS, Microsoft SQL Server, VB.NET, PHP, HTML, CSS, JavaScript, MySQL (PhpMyAdmin) , jQuery, DNS, Cloudflare, Hosting Management, Putty, centos7, centos web panel, aapanel
 
 ---
 
@@ -76,9 +62,3 @@ Some of my current and most recent projects are private repositories.
 - **HackerRank:** [mosaadghanem97](https://hackerrank.com/profile/mosaadghanem97)
 
 ---
-
-## 📢 Featured Posts
-- [Distributed Logging System](https://www.linkedin.com/posts/elmagekmosaad_introducing-mg-distributed-logging-system-activity-7285062386456154112-8yPY)  
-- [ASP.NET Core EF Core Tech Interview](https://www.linkedin.com/posts/elmagekmosaad_aspnetcore-efcore-techinterview-activity-7252553825788592128-37cJ)  
-- [C# WinForms Tech Interview](https://www.linkedin.com/posts/elmagekmosaad_csharp-winforms-techinterview-activity-7252528243373658112-eNP1)  
-- [Real-time Chat App](https://www.linkedin.com/posts/elmagekmosaad_webdevelopment-realtimechat-aspnetcore-activity-7225825659875430400-cdg9)
